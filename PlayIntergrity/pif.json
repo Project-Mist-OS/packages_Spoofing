@@ -1,9 +1,15 @@
 {
-  "FINGERPRINT": "google/comet_beta/comet:15/BP11.241121.010/12780007:user/release-keys",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "ID": "BP21.241121.009",
+  "BRAND": "google",
+  "DEVICE": "oriole",
+  "FINGERPRINT": "google/oriole_beta/oriole:Baklava/BP21.241121.009/12787338:user/release-keys",
   "MANUFACTURER": "Google",
-  "DEVICE": "comet",
-  "PRODUCT": "comet_beta",
-  "MODEL": "Pixel 9 Pro Fold",
+  "MODEL": "Pixel 6",
+  "PRODUCT": "oriole_beta",
+  "RELEASE": "15",
   "SECURITY_PATCH": "2024-12-05",
-  "DEVICE_INITIAL_SDK_INT": 33
+  "DEVICE_INITIAL_SDK_INT": 21,
+  "DEBUG": false
 }
